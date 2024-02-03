@@ -25,10 +25,10 @@ app SaaSTemplate {
     externalAuthEntity: SocialLogin,
     methods: {
       usernameAndPassword: {},
-      // google: { // Guide for setting up Auth via Google https://wasp-lang.dev/docs/auth/social-auth/overview
-      //   getUserFieldsFn: import { getUserFields } from "@server/auth/google.js",
-      //   configFn: import { config } from "@server/auth/google.js",
-      // },
+      google: { // Guide for setting up Auth via Google https://wasp-lang.dev/docs/auth/social-auth/overview
+        getUserFieldsFn: import { getUserFields } from "@server/auth/google.js",
+        configFn: import { config } from "@server/auth/google.js",
+      },
       // email: {
       //   fromField: {
       //     name: "Open SaaS App",

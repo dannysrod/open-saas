@@ -1,0 +1,1 @@
+{"version":3,"file":"defaults.js","sourceRoot":"","sources":["../../../../src/auth/providers/oauth/defaults.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,mCAAmC,EAAE,MAAM,uBAAuB,CAAA;AAE3E,MAAM,CAAC,KAAK,UAAU,eAAe,CAAC,QAAQ,EAAE,KAAK;IACnD,MAAM,QAAQ,GAAG,MAAM,mCAAmC,EAAE,CAAA;IAC5D,OAAO,EAAE,QAAQ,EAAE,CAAA;AACrB,CAAC"}
